@@ -1,0 +1,29 @@
+Classifier 1 : SVM  - (Beter Result)
+
+
+Training candidate -  Romney  :  Testing candidate -  romney-test
+
+Accuracy: 66.19 %
+
+Positive Precision: 50.65 %
+Positive Recall: 42.39 %
+Positive Fscore: 46.15 %
+
+Negative Precision: 74.09 %
+Negative Recall: 78.38 %
+Negative Fscore: 76.17 %
+
+----------------------------------------------------------------------------
+Classifier 2: Naive Bayes Classifier 
+ 
+Training candidate -  Romney  :  Testing candidate -  romney-test
+
+Accuracy: 63.57 %
+
+Positive Precision: 55.38 %
+Positive Recall: 37.89 %
+Positive Fscore: 45.00 %
+
+Negative Precision: 72.73 %
+Negative Recall: 80.31 %
+Negative Fscore: 76.33 %

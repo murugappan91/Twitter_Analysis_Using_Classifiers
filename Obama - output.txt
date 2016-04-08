@@ -1,0 +1,28 @@
+Classifier 1 : SVM - (Better result)
+Training candidate -  Obama  :  Testing candidate -  obama-test
+
+Accuracy: 58.25 %
+
+Positive Precision: 58.51 %
+Positive Recall: 46.61 %
+Positive Fscore: 51.89 %
+
+Negative Precision: 69.07 %
+Negative Recall: 74.09 %
+Negative Fscore: 71.49 %
+
+----------------------------------------------------------------
+
+Classifier 2 : Naive Bayes Classifier
+
+Training candidate -  Obama  :  Testing candidate -  obama-test
+
+Accuracy: 60.10 %
+
+Positive Precision: 61.19 %
+Positive Recall: 34.45 %
+Positive Fscore: 44.09 %
+
+Negative Precision: 64.64 %
+Negative Recall: 82.27 %
+Negative Fscore: 72.40 %
