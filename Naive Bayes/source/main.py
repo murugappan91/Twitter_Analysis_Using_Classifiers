@@ -1,5 +1,8 @@
 __author__ = 'Muru'
-
+#
+# Main function which process file data from excel sheet, preprocess and cleanse data
+# perform requested classification based on NLTK libraries and Sci-Kit libraries avaiable in Python
+#
 from apis import fileprocess, nbclassifier, preprocess
 import nltk.classify
 from sklearn import cross_validation
