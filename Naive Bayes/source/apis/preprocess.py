@@ -1,5 +1,8 @@
 __author__ = 'Muru'
 
+# preprocess steps - remove username, punctuations, #tag, stop words, 
+# perform abbreviation extraction
+# perform stemming
 import re
 from nltk.corpus import stopwords
 from stemming.porter2 import stem
